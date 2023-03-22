@@ -1,0 +1,15 @@
+C:\Formacao\PA_RS8_2-OOP\C07_EFF_RM\03_20230322_RM\C07_EFF_RM\D02_EF6_CF_v1\bin\Debug\D02_EF6_CF_v1.exe.config
+C:\Formacao\PA_RS8_2-OOP\C07_EFF_RM\03_20230322_RM\C07_EFF_RM\D02_EF6_CF_v1\bin\Debug\D02_EF6_CF_v1.exe
+C:\Formacao\PA_RS8_2-OOP\C07_EFF_RM\03_20230322_RM\C07_EFF_RM\D02_EF6_CF_v1\bin\Debug\D02_EF6_CF_v1.pdb
+C:\Formacao\PA_RS8_2-OOP\C07_EFF_RM\03_20230322_RM\C07_EFF_RM\D02_EF6_CF_v1\bin\Debug\D00_Utility.dll
+C:\Formacao\PA_RS8_2-OOP\C07_EFF_RM\03_20230322_RM\C07_EFF_RM\D02_EF6_CF_v1\bin\Debug\EntityFramework.dll
+C:\Formacao\PA_RS8_2-OOP\C07_EFF_RM\03_20230322_RM\C07_EFF_RM\D02_EF6_CF_v1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Formacao\PA_RS8_2-OOP\C07_EFF_RM\03_20230322_RM\C07_EFF_RM\D02_EF6_CF_v1\bin\Debug\D00_Utility.pdb
+C:\Formacao\PA_RS8_2-OOP\C07_EFF_RM\03_20230322_RM\C07_EFF_RM\D02_EF6_CF_v1\bin\Debug\EntityFramework.xml
+C:\Formacao\PA_RS8_2-OOP\C07_EFF_RM\03_20230322_RM\C07_EFF_RM\D02_EF6_CF_v1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Formacao\PA_RS8_2-OOP\C07_EFF_RM\03_20230322_RM\C07_EFF_RM\D02_EF6_CF_v1\obj\Debug\D02_EF6_CF_v1.csproj.AssemblyReference.cache
+C:\Formacao\PA_RS8_2-OOP\C07_EFF_RM\03_20230322_RM\C07_EFF_RM\D02_EF6_CF_v1\obj\Debug\D02_EF6_CF_v1.csproj.SuggestedBindingRedirects.cache
+C:\Formacao\PA_RS8_2-OOP\C07_EFF_RM\03_20230322_RM\C07_EFF_RM\D02_EF6_CF_v1\obj\Debug\D02_EF6_CF_v1.csproj.CoreCompileInputs.cache
+C:\Formacao\PA_RS8_2-OOP\C07_EFF_RM\03_20230322_RM\C07_EFF_RM\D02_EF6_CF_v1\obj\Debug\D02_EF6_CF_v1.csproj.CopyComplete
+C:\Formacao\PA_RS8_2-OOP\C07_EFF_RM\03_20230322_RM\C07_EFF_RM\D02_EF6_CF_v1\obj\Debug\D02_EF6_CF_v1.exe
+C:\Formacao\PA_RS8_2-OOP\C07_EFF_RM\03_20230322_RM\C07_EFF_RM\D02_EF6_CF_v1\obj\Debug\D02_EF6_CF_v1.pdb
